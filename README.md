@@ -49,6 +49,7 @@ Customer churn is a significant challenge in the finance sector, where businesse
 
 ### Step 4: Power BI Visualizations
 - **Churn Rate (KPI Card)**
+- **Churn by Gender (Bar Chart)**
 - **Churn by Age Group (Column Chart)**
 - **Churn by Country (Pie Chart)**
 
